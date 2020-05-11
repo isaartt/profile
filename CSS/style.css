@@ -19,7 +19,7 @@ body {
   
   .menu ul {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
   }
   
   .menu li {
